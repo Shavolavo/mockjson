@@ -1,27 +1,27 @@
 {
-  "Usuarios": [
+  "Users": [
     {
     "Nome": "Tiago Miranda Silva,
     "Usuario": "Shavolavo",
-    "E-mail": "tiagomiranda@precode.com",
+    "Email": "tiagomiranda@precode.com",
     "Senha": "12345"
     }
      {
     "Nome": "Marina Del Mouro",
     "Usuario": Marina,
-    "E-mail": "marinamouro@precode.com",
+    "Email": "marinamouro@precode.com",
     "Senha": "12345"
     }
      {
     "Nome": "Marcos Vieira",
     "Usuario": "Marcos",
-    "E-mail": "marcosvieira@precode.com",
+    "Email": "marcosvieira@precode.com",
     "Senha": "12345"
     }
     {
     "Nome": "Maísa Nazário",
     "Usuario": "Maisa",
-    "E-mail": "maisanazario@precode.com",
+    "Email": "maisanazario@precode.com",
     "Senha": "12345"
     }
     ]
