@@ -1,28 +1,90 @@
 {
-  "Users": [
+  "produtos": [
     {
-    "Nome": "Tiago Miranda Silva,
-    "Usuario": "Shavolavo",
-    "Email": "tiagomiranda@precode.com",
-    "Senha": "12345"
-    }
-     {
-    "Nome": "Marina Del Mouro",
-    "Usuario": Marina,
-    "Email": "marinamouro@precode.com",
-    "Senha": "12345"
-    }
-     {
-    "Nome": "Marcos Vieira",
-    "Usuario": "Marcos",
-    "Email": "marcosvieira@precode.com",
-    "Senha": "12345"
-    }
+      "id": 1,
+      "nome": "Fritadeira Elétrica",
+      "descricao": "Multilser Air Fryer 4",
+      "preco": 399.00,
+      "categoria_id": 1
+    },
     {
-    "Nome": "Maísa Nazário",
-    "Usuario": "Maisa",
-    "Email": "maisanazario@precode.com",
-    "Senha": "12345"
+      "id": 2,
+      "nome": "Fritadeira Elétrica Air",
+      "descricao": "Fryer 4L 1500W com espatula de brinde",
+      "preco": 359.00,
+      "categoria_id": 1
+    },
+    {
+      "id": 3,
+      "nome": "Fritadeira Elétrica",
+      "descricao": "Consul Air Fryer",
+      "preco": 400.00,
+      "categoria_id": 1
     }
-    ]
+  ],
+  "users": [
+    {
+        "id": 1,
+        "nome": "Tiago Miranda Silva",
+        "email": "tiagomiranda@precode.com",
+        "usuario": "Tiago",
+        "senha": 12345
+    },
+    {
+        "id": 2,
+        "nome": "Marina  Del  Mouro",
+        "email": "marinamouro@precode.com",
+        "usuario": "Marina",
+        "senha": 12345
+    },
+    {
+        "id": 3,
+        "nome": "Marcos  Vieira",
+        "email": "marcosvieira@precode.com",
+        "usuario": "Marcos",
+        "senha": 12345
+    }
+  ],
+  "categorias": [
+    {
+        "id": 1,
+        "nome": "Utilidades Domésticas"
+    },
+    {
+        "id": 2,
+        "nome": "Telefonia"
+    },
+    {
+        "id": 3,
+        "nome": "Pet"
+    },
+    {
+        "id": 4,
+        "nome": "Papelaria"
+    },
+    {
+        "id": 5,
+        "nome": "Móveis"
+    },
+    {
+        "id": 6,
+        "nome": "Instrumentos Musicais"
+    },
+    {
+        "id": 7,
+        "nome": "Informática"
+    },
+    {
+        "id": 8,
+        "nome": "Infantil"
+    },
+    {
+        "id": 9,
+        "nome": "Ferramentas"
+    },
+    {
+        "id": 10,
+        "nome": "Esporte e Lazer"
+    }
+  ]
 }
